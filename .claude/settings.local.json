@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(cd /d D:\\\\Coding\\\\Smart Resume Screener Lite)",
+      "Bash(start /b uvicorn main:app --host 127.0.0.1 --port 8000)"
+    ]
+  }
+}
