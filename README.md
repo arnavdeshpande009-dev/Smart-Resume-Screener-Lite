@@ -47,6 +47,8 @@ The system analyzes resumes against job descriptions and generates relevance-bas
 
 ### Detailed Resume Breakdown
 ![Detailed Analysis](screenshots/detailed-analysis.png)
+
+
 ## Future Improvements
 
 - Semantic similarity matching
