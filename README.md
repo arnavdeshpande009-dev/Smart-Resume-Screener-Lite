@@ -34,8 +34,19 @@ The system analyzes resumes against job descriptions and generates relevance-bas
 
 ## Screenshots
 
-_Add screenshots here later._
+## Screenshots
 
+### Main Interface
+![Main UI](screenshots/main-ui.png)
+
+### Resume Upload Section
+![Upload Screen](screenshots/upload-screen.png)
+
+### Candidate Ranking Analysis
+![Ranking Analysis](screenshots/ranking-analysis.png)
+
+### Detailed Resume Breakdown
+![Detailed Analysis](screenshots/detailed-analysis.png)
 ## Future Improvements
 
 - Semantic similarity matching
